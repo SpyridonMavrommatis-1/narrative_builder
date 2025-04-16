@@ -1,9 +1,9 @@
 # Narrative Builder
 
-This repository contains the project files for the Narrative Builder application, a framework designed to help create, manage, and analyze narrative structures. The project includes for now three models and queries related to narrative construction.
+This repository contains the structured queries for the Narrative Builder application, a framework designed to help create, manage, and analyze narrative structures.
 
 ## Features
-
+ The project includes for now three models and queries related to narrative construction:
 - Freytag Pyramid Model
 - Mavrommatis Triangle Model
 - Dan Harmon Story Circle
